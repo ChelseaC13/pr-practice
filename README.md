@@ -13,7 +13,7 @@ some trivial change b/c I merged prematurely. whoops, don't fire me pls.
 
 ## Person C:
 
-Person C should modify content here.
+Favorite food.
 
 ## Person D:
 
