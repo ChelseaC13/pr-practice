@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Hello my name is Yesenia and I am person B. waddup.
 
 ## Person C:
 
