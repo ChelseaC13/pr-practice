@@ -17,7 +17,7 @@ Favorite food.
 
 ## Person D:
 
-Person D should modify content here.
+It's me, Diana 🙂
 
 ## Need inspiration?
 
