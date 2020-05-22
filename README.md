@@ -9,6 +9,7 @@ Person A should modify content here.
 ## Person B:
 
 Hello my name is Yesenia and I am person B. waddup.
+some trivial change b/c I merged prematurely. whoops, don't fire me pls.
 
 ## Person C:
 
